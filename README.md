@@ -1,5 +1,6 @@
 # nodeclub [![Build Status](https://secure.travis-ci.org/cnodejs/nodeclub.png?branch=master)](http://travis-ci.org/cnodejs/nodeclub) [![依赖模块状态](https://david-dm.org/cnodejs/nodeclub.png)](http://david-dm.org/cnodejs/nodeclub)
 first commit
+second commit
 基于nodejs的社区系统
 
 ## 介绍
